@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+}
+
+.widget {
+    margin: 20px auto;
+    width: 500px;
+    padding: 30px;
+    border: 1px solid black;
+    border-bottom: 2px solid black;
+    
+}
+
+.stars img {
+    width: 30px;
+}
+
+.stars img.active {
+    background-color: gold;
+}
+
+.gallery img {
+    width: 100%;
+}
